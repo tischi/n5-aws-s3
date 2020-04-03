@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.janelia.saalfeldlab:n5:test-jar:tests:2.0.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/janelia/saalfeldlab/n5/2.0.2/n5-2.0.2-tests.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/janelia/saalfeldlab/n5/2.0.2/n5-2.0.2-test-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/janelia/saalfeldlab/n5/2.0.2/n5-2.0.2-test-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

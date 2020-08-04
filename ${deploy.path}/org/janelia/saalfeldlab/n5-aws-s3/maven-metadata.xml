@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.janelia.saalfeldlab</groupId>
+  <artifactId>n5-aws-s3</artifactId>
+  <versioning>
+    <release>2.1.1-platybrowser</release>
+    <versions>
+      <version>2.1.1-platybrowser</version>
+    </versions>
+    <lastUpdated>20200403061527</lastUpdated>
+  </versioning>
+</metadata>
